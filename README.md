@@ -1,4 +1,4 @@
-### Hi, I'm Nafiz Fua 👋
+### Hi, I'm Nafiz Fuad 👋
 ![👑 I am Web Developer](https://media.licdn.com/dms/image/D5616AQEojNt1dfpVTQ/profile-displaybackgroundimage-shrink_350_1400/0/1710106641671?e=1717027200&v=beta&t=9-daEgg8PykEf1jrxwDJPdupBhLWbMLJ5V4x9LwjBeI)
 
 #### 👑 I am Web Developer
