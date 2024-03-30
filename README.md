@@ -1,11 +1,13 @@
-![I am web developer](https://media.licdn.com/dms/image/D5616AQEojNt1dfpVTQ/profile-displaybackgroundimage-shrink_350_1400/0/1710106641671?e=1717027200&v=beta&t=9-daEgg8PykEf1jrxwDJPdupBhLWbMLJ5V4x9LwjBeI)
+### Hi, I'm Nafiz Fua 👋
+![👑 I am Web Developer](https://media.licdn.com/dms/image/D5616AQEojNt1dfpVTQ/profile-displaybackgroundimage-shrink_350_1400/0/1710106641671?e=1717027200&v=beta&t=9-daEgg8PykEf1jrxwDJPdupBhLWbMLJ5V4x9LwjBeI)
 
-### Hi there 👋, My name is Nafiz Fuad
-#### I am web developer
+#### 👑 I am Web Developer
+🖊️ Love to write code
+🎤 Like to share my knowledge
 
-I'm a Front-End Web Developer who is 
+I’m a Front-End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 10s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I enjoy working with HTML, CSS JavaScript.
 
-Skills: HTML / CSS/ JS/ jQuery
+Skills: HTML / CSS/ JS/ jQuery/ Adobe Photoshop/ Adobe Illustrator/ Figma
 
 - 🔭 I’m currently working on Bizbulbing 
 - 🌱 I’m currently learning Python 
@@ -22,3 +24,4 @@ Skills: HTML / CSS/ JS/ jQuery
 ![GitHub metrics](https://metrics.lecoq.io/nfnafiz39)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nfnafiz39)  
+
